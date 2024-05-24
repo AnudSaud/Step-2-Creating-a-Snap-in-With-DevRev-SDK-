@@ -18,10 +18,6 @@ This snap-in notifies the owner when a specified keyword is found in a timeline 
 3. Create a timeline entry with the specified keyword.
 4. The owner will receive a notification if the keyword is detected.
 
-## Screenshot or Demonstration
-
-(Include a screenshot of the notification received or a short gif demonstrating the snap-in in action.)
-
 ## Code
 
 The code for the snap-in is located in `hello-world-snapin.js`.
@@ -29,7 +25,3 @@ The code for the snap-in is located in `hello-world-snapin.js`.
 ## Configuration
 
 The snap-in configuration is defined in `snapin.json`.
-
-## Contact
-
-For any questions or issues, please contact [Your Name] at [Your Email].
