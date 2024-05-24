@@ -1,0 +1,16 @@
+{
+    "name": "Keyword Matching Snap-in",
+    "version": "1.0.0",
+    "description": "Notifies the owner when a specified keyword is found in a timeline entry.",
+    "main": "hello-world-snapin.js",
+    "inputs": {
+      "keyword": {
+        "type": "string",
+        "description": "The keyword to match in timeline entries."
+      }
+    },
+    "events": [
+      "timeline_entry_created"
+    ]
+  }
+  
